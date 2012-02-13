@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <modules>
+        <JR_TranslateAdminFormLabels>
+            <version>1.0.0</version>
+        </JR_TranslateAdminFormLabels>
+    </modules>
+    <adminhtml>
+        <translate>
+            <modules>
+                <JR_TranslateAdminFormLabels>
+                    <files>
+                        <default>JR_TranslateAdminFormLabels.csv</default>
+                    </files>
+                </JR_TranslateAdminFormLabels>
+            </modules>
+        </translate>
+    </adminhtml>
+</config>
